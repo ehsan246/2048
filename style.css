@@ -10,7 +10,7 @@ body{
 	height: 100vh;
 	margin: 0;
 	font-size: 7.5vmin;
-}
+} 
 #game-board{
 	--grid-size: 4;
 	--cell-size: 20vmin;
@@ -24,7 +24,7 @@ body{
 	padding: 2vmin;
 	position: relative;
 }
-
+  
 .cell{
 	background: #aaa;
 	border-radius: 1vmin;
